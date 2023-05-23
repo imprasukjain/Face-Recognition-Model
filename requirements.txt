@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+opencv-python
+scikit-learn
+flask
+unicorn
