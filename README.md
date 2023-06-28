@@ -34,6 +34,10 @@ To use the models in your projects, follow these steps:
 
 3. Integrate the chosen model into your code or application as per your requirements
 
+
+### Flask Web App 
+Flask Web App using this model can be accessed from [here](https://github.com/imprasukjain/Flask_Web_App)
+
 ## License
 This repository is licensed under the [MIT License](LICENSE).
 
